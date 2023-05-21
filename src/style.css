@@ -1,0 +1,84 @@
+* {
+    color: white;
+}
+.todo-cont1{
+    margin-left: 30%;
+}
+.todo-cont2{
+    margin-left: 31%;
+    border-top: 1px solid orangered ;
+    padding-top: 15px;
+    width: 430px;
+}
+.search {
+    width: 410px;
+    padding: 5px 0px 5px 15px;
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 1px 1px gray;
+}
+.topick{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: orange;
+    margin-bottom: 15px;
+}
+.add{
+    width: 300px;
+    padding: 5px 0px 5px 15px;
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 1px 1px gray;
+    margin: 20px;
+}
+.add-but{
+    width: 70px;
+    padding: 5px;
+    background-color: black;
+    border-radius: 3px;
+    border: 1px solid gray;
+}
+.add-but:hover{
+    background-color: orangered;
+    color: black;
+    border: 1px solid white;
+}
+.todo-nav{
+    margin-left: 40%;
+    width: 170px;
+    border-bottom: 1px solid gray;
+}
+body {
+    background-color: black;
+}
+.todo-list{
+    margin-left: 28%;
+}
+.todo-item{
+    margin-top: 10px;
+    width: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 60px;
+    background-color: rgb(20, 18, 18);
+    border-radius: 10px;
+    border-left:2px solid orangered ;
+}
+.box{
+    color: orangered;
+    margin-right: 20px;
+}
+.del{
+    margin-top: 15px;
+    background-color: rgb(20, 18, 18);
+    border: none;
+    margin-left: 75%;
+}
+svg:hover{
+    fill: orangered;
+}
+span{
+    width: 200px;
+}
